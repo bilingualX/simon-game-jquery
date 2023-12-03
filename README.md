@@ -1,3 +1,3 @@
-# Simon Game made using jQuery
+## Simon Game made using jQuery
 
-# [Link to the game] <a href = "https://gustavo19972023.github.io/simon-game-jquery/"></a>
+# [Link to the game](https://gustavo19972023.github.io/simon-game-jquery/)
